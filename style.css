@@ -1,0 +1,85 @@
+h1{
+   font-size: 58px;
+   
+
+}
+h2{
+   font-size: 48px;
+}
+.border{
+   border-left: 7px;
+   border-image: linear-gradient(red,tomato);
+   border-image-slice: 1;
+}
+.link-button{
+   text-decoration: none;
+ background-color: rgba(185, 17, 31, 0.662);
+ color: white;
+ padding: 10px 25px;
+ border-radius: 5px;
+}
+p{
+font-size: 22px;
+}
+.color-title{
+ color:rgba(255, 132, 0, 0.782);
+}
+.first{
+   display: flex;
+}
+.half{
+   width: 50%;
+   padding-left: 10%;
+}
+.half img{
+   width: 60%;
+}
+.center{
+   text-align: center;
+}
+.second-half{
+   display: flex;
+   margin-left: 10%;
+}
+.second-half img{
+   width: 30%;
+  
+}
+.mission{
+   width: 30%;
+   
+   margin-right: 5%;
+   padding: 2%;
+   background-color: rgb(200, 250, 233);
+   border-radius: 6%;
+}
+.vission{
+   width: 30%;
+   margin-right: 5%;
+   padding: 2%;
+   border-radius: 6%;
+   background-color: rgb(245, 222, 225);
+}
+.goals{
+   width: 30%;
+   margin-right: 5%;
+   padding: 2%;
+   border-radius: 6%;
+   background-color: rgb(232, 208, 177);
+}
+.third-fourth{
+   margin-top: 10%;
+   display: flex;
+   margin-left: 10%;
+}
+.tfhalf img{
+   width: 70%;
+  padding-right: 0%;
+  
+}
+#padding{
+   padding-right:6% ;
+}
+#five{
+   padding-right: 15%;
+}
